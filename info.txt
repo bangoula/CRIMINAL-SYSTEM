@@ -1,0 +1,2 @@
+je suis entrain de faire des test pour mieux comprendre GIT
+avec un 2ème fichier
